@@ -1,11 +1,11 @@
 ### <p> Hey there! I'm Zeffo! (He/Him) <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG42OWVucjlyODhlYXdsdDZwMjg5cWlqZTJlcjU0bDZ5bmFkNzMwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qBcVcYkqvLdEDM6HwZ/source.gif" width="30px">
 <p>
-  Diving deep into Software Engineering, working towards a Masters in Computer Vision  
+  Diving deep into Software Engineering, working towards a Masters in Computer Vision and AI 
 </p>
 
 - 💻 &nbsp;Passionate about coding, always working on new projects.
 - 🎮 &nbsp;Avid gamer, frequently found playing Yakuza/Like A Dragon games!
-- 💬 &nbsp;Feel free to ask me anything about computer vision, game development, or any tech-related stuff! 
+- 💬 &nbsp;Feel free to ask me anything about computer vision, AI, game development, or any tech-related stuff! 
 - 🥋 &nbsp;Fun fact: I've been doing Karate for over 15 years!
 
 #### 🛠 Languages and Tools:
