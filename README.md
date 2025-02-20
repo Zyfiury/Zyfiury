@@ -6,7 +6,7 @@
 - 💻 &nbsp;Passionate about coding, always working on new projects.
 - 🎮 &nbsp;Avid gamer, frequently found playing Yakuza/Like A Dragon games!
 - 💬 &nbsp;Feel free to ask me anything about computer vision, AI, game development, or any tech-related stuff! 
-- 🥋 &nbsp;Fun fact: I've been doing Karate for over 15 years!
+- 🥋 &nbsp;Fun fact: I've been doing Karate for over 10 years!
 
 #### 🛠 Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
